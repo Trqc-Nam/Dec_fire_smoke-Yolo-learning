@@ -1,0 +1,6 @@
+**/weights/
+.venv/
+**/DatasetAll/
+*.db
+.idea/
+working/runs/fire_smoke_detection_v1/weights/
