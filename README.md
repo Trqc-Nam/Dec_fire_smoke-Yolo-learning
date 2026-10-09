@@ -21,9 +21,7 @@ The datasets used in this project are publicly available and pre-labeled.
 
 * Python
 * YOLO
-* PyTorch
-* OpenCV
-* Kaggle
+* Kaggle : https://www.kaggle.com/code/trngqucnam/dec-fire-smoke-yolo-learning
 
 ## Project Purpose
 
