@@ -1,6 +1,6 @@
 # Fire & Smoke Detection with YOLO
 
-A personal learning project on object detection using YOLO to detect **fire** and **smoke** in images.
+A personal learning project on object detection using YOLO to detect **fire** and **smoke** in images. (Made in the summer of 2025)
 
 ## About
 
